@@ -1,0 +1,16 @@
+[
+{
+  "modid": "man",
+  "name": "SWTools",
+  "description": "AAA",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "Thanks Forge and FML guys, for making example mod, now it sergwest's tool",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,8 @@
+package org.swtools;
+
+import net.minecraftforge.fml.common.Mod;
+
+@Mod(modid = "man")
+public class main {
+	
+}

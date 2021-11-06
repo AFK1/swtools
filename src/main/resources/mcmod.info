@@ -1,15 +1,15 @@
 [
 {
-  "modid": "man",
+  "modid": "swt",
   "name": "SWTools",
-  "description": "AAA",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "description": "Not a cheat",
+  "version": "5.8.5",
+  "mcversion": "${1.12.2}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "Thanks Forge and FML guys, for making example mod, now it sergwest's tool",
-  "logoFile": "",
+  "authorList": ["Sergwest", "SrgantMooMoo"],
+  "credits": "what make me a good demoman",
+  "logoFile": "logo.png",
   "screenshots": [],
   "dependencies": []
 }

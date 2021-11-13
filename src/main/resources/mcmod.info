@@ -1,16 +1,16 @@
 [
 {
-  "modid": "swt",
+  "modid": "examplemod",
   "name": "SWTools",
   "description": "Not a cheat",
-  "version": "5.8.5",
+  "version": "585",
   "mcversion": "${1.12.2}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["Sergwest", "SrgantMooMoo"],
-  "credits": "what make me a good demoman",
+  "authorList": ["Sergwest", "Srgantmoomoo", "ExampleDude"],
+  "credits": "what make me a good demoman?",
   "logoFile": "logo.png",
   "screenshots": [],
   "dependencies": []
 }
-]
+]                                                                                                                                                                

@@ -5,9 +5,9 @@ import org.lwjgl.input.Keyboard;
 import me.sergwest.swtools.module.Category;
 import me.sergwest.swtools.module.Module;
 
-public class sprint extends Module {
+public class Sprint extends Module {
 	
-	public sprint() {
+	public Sprint() {
 		super("Sprint", "run on 'w'", Category.PACKET);
 		this.setKey(Keyboard.KEY_C);
 	}

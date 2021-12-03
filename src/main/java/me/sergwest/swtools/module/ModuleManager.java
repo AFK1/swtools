@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import me.sergwest.swtools.Main;
-import me.sergwest.swtools.module.modules.packet.sprint;
+import me.sergwest.swtools.module.modules.packet.Sprint;
 
 public class ModuleManager {
 	
@@ -13,7 +13,7 @@ public class ModuleManager {
 	public ModuleManager() {
 		(modules = new ArrayList<Module>()).clear();
 		//Packet
-		this.modules.add(new sprint());
+		this.modules.add(new Sprint());
 		//Fun
 		
 	}

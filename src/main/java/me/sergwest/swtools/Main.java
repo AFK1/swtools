@@ -27,7 +27,7 @@ public class Main {
 	public static Hud hud;
 
     // Mod id in load list.
-    public static final String MODID = "examplemod";
+    public static final String MODID = "swtools";
     // Name of the mod.
     public static final String NAME = "SWTools";
     // Vesrion.

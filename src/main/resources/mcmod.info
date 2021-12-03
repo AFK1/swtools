@@ -1,13 +1,13 @@
 [
 {
-  "modid": "examplemod",
+  "modid": "swtools",
   "name": "SWTools",
   "description": "Not a cheat",
   "version": "585",
   "mcversion": "${1.12.2}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["Sergwest", "Srgantmoomoo", "ExampleDude"],
+  "authorList": ["Sergwest", "Srgantmoomoo", "ExampleDude", "c4llv07e (aka KseandI)"],
   "credits": "what make me a good demoman?",
   "logoFile": "logo.png",
   "screenshots": [],

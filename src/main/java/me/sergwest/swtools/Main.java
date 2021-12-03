@@ -63,7 +63,7 @@ public class Main {
     			if(keyCode<= 0)
     				return;
     			for(Module m : moduleManager.modules) {
-    				if(m.getKey() == keyCode && keyCode > 0) {
+    				if(m.getKey() == keyCode) {
     					m.Toggle();
     				}
     			}
